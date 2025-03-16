@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="SSD_1">
+            <file>file:/Users/konstandinosdimitriou/Documents/ihu/Εξάμηνο%205/Αλληλεπίδραση%20Ανθρώπου-Μηχανής/JavaWorkspace/Platformer_Game-master_v.0.2%202/src/utilz/LoadSave.java</file>
+            <file>file:/Users/konstandinosdimitriou/Documents/ihu/Εξάμηνο%205/Αλληλεπίδραση%20Ανθρώπου-Μηχανής/JavaWorkspace/Platformer_Game-master_v.0.2%202/src/main/MainClass.java</file>
+            <file>file:/Users/konstandinosdimitriou/Documents/ihu/Εξάμηνο%205/Αλληλεπίδραση%20Ανθρώπου-Μηχανής/JavaWorkspace/Platformer_Game-master_v.0.2%202/src/utilz/HelpMethods.java</file>
+            <file>file:/Users/konstandinosdimitriou/Documents/ihu/Εξάμηνο%205/Αλληλεπίδραση%20Ανθρώπου-Μηχανής/JavaWorkspace/Platformer_Game-master_v.0.2%202/src/objects/GameObject.java</file>
+        </group>
+        <group>
+            <file>file:/Volumes/SSD_1/JavaWorkspace/Platformer_Game-master_v.0.2%202/src/ui/AudioOptions.java</file>
+            <file>file:/Volumes/SSD_1/JavaWorkspace/Platformer_Game-master_v.0.2%202/src/objects/ObjectManager.java</file>
+            <file>file:/Volumes/SSD_1/JavaWorkspace/Platformer_Game-master_v.0.2%202/src/utilz/LoadSave.java</file>
+            <file>file:/Volumes/SSD_1/JavaWorkspace/Platformer_Game-master_v.0.2%202/src/inputs/KeyboardInputs.java</file>
+            <file>file:/Volumes/SSD_1/JavaWorkspace/Platformer_Game-master_v.0.2%202/src/entities/Enemy.java</file>
+            <file>file:/Volumes/SSD_1/JavaWorkspace/Platformer_Game-master_v.0.2%202/src/gamestates/GameOptions.java</file>
+            <file>file:/Volumes/SSD_1/JavaWorkspace/Platformer_Game-master_v.0.2%202/src/gamestates/State.java</file>
+            <file>file:/Volumes/SSD_1/JavaWorkspace/Platformer_Game-master_v.0.2%202/src/utilz/HelpMethods.java</file>
+            <file>file:/Volumes/SSD_1/JavaWorkspace/Platformer_Game-master_v.0.2%202/src/inputs/MouseInputs.java</file>
+            <file>file:/Volumes/SSD_1/JavaWorkspace/Platformer_Game-master_v.0.2%202/src/levels/Level.java</file>
+            <file>file:/Volumes/SSD_1/JavaWorkspace/Platformer_Game-master_v.0.2%202/src/utilz/Constants.java</file>
+            <file>file:/Volumes/SSD_1/JavaWorkspace/Platformer_Game-master_v.0.2%202/src/objects/Bullet.java</file>
+            <file>file:/Volumes/SSD_1/JavaWorkspace/Platformer_Game-master_v.0.2%202/src/objects/Cannon.java</file>
+            <file>file:/Volumes/SSD_1/JavaWorkspace/Platformer_Game-master_v.0.2%202/src/levels/LevelManager.java</file>
+            <file>file:/Volumes/SSD_1/JavaWorkspace/Platformer_Game-master_v.0.2%202/src/entities/EnemyManager.java</file>
+            <file>file:/Volumes/SSD_1/JavaWorkspace/Platformer_Game-master_v.0.2%202/src/main/Game.java</file>
+        </group>
+    </open-files>
+</project-private>
